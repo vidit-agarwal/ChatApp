@@ -1,0 +1,21 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Chat App using socket.io & NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Chat",
+    "App",
+    "Socket.io",
+    "Nodejs"
+  ],
+  "author": "Vidit Agarwal",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
